@@ -7,7 +7,7 @@ void suma();
 
 
 int main(){
-
+    suma();
 
 
 
